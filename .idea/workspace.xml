@@ -26,7 +26,7 @@
       <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+            <state line="5" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -35,19 +35,37 @@
       <file leaf-file-name="samson.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samson.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="408">
+            <state line="16" column="26" selection-start="407" selection-end="407" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchFilter.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SearchFilter.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SearchFilter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="5" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.7183099" vertical-offset="0" max-vertical-offset="923">
+            <state line="8" column="26" selection-start="162" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
               <folding>
                 <element signature="e#0#45#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="61" selection-start="338" selection-end="338" vertical-scroll-proportion="-3.4" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,10 +83,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/samson.php" />
         <option value="$PROJECT_DIR$/SearchFilter.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -286,31 +304,40 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.4467354" vertical-offset="2136" max-vertical-offset="3009" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="110" selection-end="110" vertical-scroll-proportion="0.037861917" vertical-offset="0" max-vertical-offset="898" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+        <state line="5" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/samson.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="408">
+        <state line="16" column="26" selection-start="407" selection-end="407" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="408">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchFilter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="5" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.7183099" vertical-offset="0" max-vertical-offset="923">
+        <state line="8" column="26" selection-start="162" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
           <folding>
             <element signature="e#0#45#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="61" selection-start="338" selection-end="338" vertical-scroll-proportion="-3.4" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
+          <folding />
         </state>
       </provider>
     </entry>
