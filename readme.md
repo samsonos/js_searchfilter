@@ -1,6 +1,7 @@
 # Filter(searchfilter) SamsonJS module for [SamsonPHP](http://samsonphp.com) framework
 
 > Module gives tou an opportunity to filter specified list by value typed in input.
+
 It has 3 parameters:
 * First is to specify all elements which will be in search list.
 That means you can use any selector you want, by default class ```'.search-element'``` is used.
